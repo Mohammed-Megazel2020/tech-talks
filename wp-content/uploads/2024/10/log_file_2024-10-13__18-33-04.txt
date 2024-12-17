@@ -1,0 +1,196 @@
+
+---Downloaded files---
+The import files for: Magezix Main were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://tech-talks.site
+Data file = /home/lzzggukd/tech-talks.site/wp-content/themes/magezix/lib/ocdi/demo/content.xml
+Widget file = /home/lzzggukd/tech-talks.site/wp-content/themes/magezix/lib/ocdi/demo/widgets.wie
+Customizer file = /home/lzzggukd/tech-talks.site/wp-content/themes/magezix/lib/ocdi/demo/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "address 1" (Media)
+[ERROR] Failed to import "instagram (1) 1" (Media)
+[ERROR] Failed to import "flag" (Media)
+[ERROR] Failed to import "light-logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "logo-v2" (Media)
+[ERROR] Failed to import "sports-nation" (Media)
+[ERROR] Failed to import "sports-car" (Media)
+[ERROR] Failed to import "ground" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "fashion4" (Media)
+[ERROR] Failed to import "fashion2" (Media)
+[ERROR] Failed to import "fashion1" (Media)
+[ERROR] Failed to import "fashion3" (Media)
+[ERROR] Failed to import "building" (Media)
+[ERROR] Failed to import "politices" (Media)
+[ERROR] Failed to import "fashion-blue" (Media)
+[ERROR] Failed to import "tech-1" (Media)
+[ERROR] Failed to import "travel" (Media)
+[ERROR] Failed to import "tech" (Media)
+[ERROR] Failed to import "tech-01" (Media)
+[ERROR] Failed to import "travel-new" (Media)
+[ERROR] Failed to import "travel-water" (Media)
+[ERROR] Failed to import "travel-au" (Media)
+[ERROR] Failed to import "fashion" (Media)
+[ERROR] Failed to import "pol" (Media)
+[ERROR] Failed to import "life-style1" (Media)
+[ERROR] Failed to import "new-tech" (Media)
+[ERROR] Failed to import "business--inner" (Media)
+[ERROR] Failed to import "itsl" (Media)
+[ERROR] Failed to import "poliss" (Media)
+[ERROR] Failed to import "fashion" (Media)
+[ERROR] Failed to import "tech-laptop" (Media)
+[ERROR] Failed to import "tech-code" (Media)
+[ERROR] Failed to import "teck-mobile" (Media)
+[ERROR] Failed to import "new-business" (Media)
+[ERROR] Failed to import "busni" (Media)
+[ERROR] Failed to import "fsn-orl" (Media)
+[ERROR] Failed to import "tech-vr" (Media)
+[ERROR] Failed to import "tech-speaker" (Media)
+[ERROR] Failed to import "light" (Media)
+[ERROR] Failed to import "tech-cm" (Media)
+[ERROR] Failed to import "apple" (Media)
+[ERROR] Failed to import "google_play" (Media)
+[ERROR] Failed to import "app_store" (Media)
+[ERROR] Failed to import "img_07" (Media)
+[ERROR] Failed to import "img_09" (Media)
+[ERROR] Failed to import "img_08" (Media)
+[ERROR] Failed to import "golf-23" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cheese" (Media)
+[ERROR] Failed to import "cricket-1" (Media)
+[ERROR] Failed to import "swim" (Media)
+[ERROR] Failed to import "rugby3" (Media)
+[ERROR] Failed to import "football-2" (Media)
+[ERROR] Failed to import "football-3" (Media)
+[ERROR] Failed to import "basketball" (Media)
+[ERROR] Failed to import "golf" (Media)
+[ERROR] Failed to import "tannis" (Media)
+[ERROR] Failed to import "tannis2" (Media)
+[ERROR] Failed to import "rugby2" (Media)
+[ERROR] Failed to import "bakte-ball-2" (Media)
+[ERROR] Failed to import "land" (Media)
+[ERROR] Failed to import "rugby" (Media)
+[ERROR] Failed to import "gurby" (Media)
+[ERROR] Failed to import "swiing" (Media)
+[ERROR] Failed to import "hill-3" (Media)
+[ERROR] Failed to import "hill" (Media)
+[ERROR] Failed to import "run-1" (Media)
+[ERROR] Failed to import "olympic" (Media)
+[ERROR] Failed to import "surfin" (Media)
+[ERROR] Failed to import "swinmsdf" (Media)
+[ERROR] Failed to import "run" (Media)
+[ERROR] Failed to import "davide-cantelli-jpkfc5_d-DI-unsplash" (Media)
+[ERROR] Failed to import "3" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "towfiqu-barbhuiya-Y6uudspgY-o-unsplash" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "7" (Media)
+[ERROR] Failed to import "8" (Media)
+[ERROR] Failed to import "9" (Media)
+[ERROR] Failed to import "10" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "cropped-favicon-1.png" (Media)
+[ERROR] Failed to import "img_08" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "7" (Media)
+[ERROR] Failed to import "8" (Media)
+[ERROR] Failed to import "9" (Media)
+[ERROR] Failed to import "10" (Media)
+[ERROR] Failed to import "1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

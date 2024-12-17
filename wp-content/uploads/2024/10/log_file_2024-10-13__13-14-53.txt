@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Home 02 – Technology were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://tech-talks.site
+Data file = /home/lzzggukd/tech-talks.site/wp-content/plugins/neeon-core//demo-content/demo/content.xml
+Widget file = /home/lzzggukd/tech-talks.site/wp-content/plugins/neeon-core//demo-content/demo/widgets.wie
+Customizer file = /home/lzzggukd/tech-talks.site/wp-content/plugins/neeon-core//demo-content/demo/export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
